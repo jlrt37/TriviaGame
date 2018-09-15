@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background: #fff;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 20px;
+    color: #000;
+}
+
+.start {
+    float: center;
+}
+
+p {
+    color: #3E2723;
+}
+
+#quiz-area {
+    background: #8BC34A;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.score {
+    background: #c3664a;
+    border: none;
+}
+
+.scores {
+    font-size: 1.5em;
+}
+
+.badge {
+    background: #AB47BC;
+    font-size: 0.9em;
+}
+.footer,
+.push {
+  height: 4em;
+  text-align: center;
+}
